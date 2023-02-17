@@ -3,6 +3,7 @@ import { Hero } from './hero';
 import { Footer } from './footer';
 
 import './reset.scss';
+//import {assets} from './success.jpeg'
 
 const rootEl = document.getElementById('root');
 const header = Header();
